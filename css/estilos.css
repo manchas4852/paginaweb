@@ -10,7 +10,31 @@ body{
 /*FIN ESTILOS PARA EL HEADER*/
 
 /*INICIO ESTILOS PARA EL CONTENIDO*/
+/* unvisited link */
+a:link {
+    color: red;
+}
 
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+div.img {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 360px;
+}
 
 /*FIN ESTILOS PARA EL CONTENIDO*/
 
