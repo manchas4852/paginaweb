@@ -15,6 +15,13 @@ body{
 /*FIN ESTILOS PARA EL CONTENIDO*/
 
 /*INICIO ESTILOS PARA EL FOOTER*/
-
+p.one {
+    border: 1px solid red;
+    background-color: blue;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 
 /*FIN ESTILOS PARA EL FOOTER*/
