@@ -3,7 +3,9 @@ body{
 }
 
 /*INICIO ESTILOS PARA EL HEADER*/
-
+#logo{
+    width: 20%;
+}
 
 /*FIN ESTILOS PARA EL HEADER*/
 
